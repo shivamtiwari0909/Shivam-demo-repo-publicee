@@ -7,3 +7,4 @@ window.alert('This is a Alert Box');
 ```
 
 ![alert](https://user-images.githubusercontent.com/95132318/143727763-0b98acb9-1657-4177-b475-d3341aa085da.png)
+https://imgur.com/BdDNqJJ
